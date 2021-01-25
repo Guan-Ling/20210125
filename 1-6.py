@@ -1,0 +1,5 @@
+s=int(input())
+h=int((s/60)/60)
+m=int(s/60)
+ss=s-(h*60*60)-(m*60)
+print(h," ",m)

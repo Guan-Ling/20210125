@@ -8,6 +8,9 @@ aa=int(input("aa="))
 bb=int(input("bb="))
 print("aa+bb="+str(aa+bb))
 
-aa=input("aa=")
-bb=input("bb=")
-print("aa+bb="+str(int(aa)+int(bb)))
+aaa=input("aaa=")
+bbb=input("bbb=")
+print("aaa+bbb="+str(int(aaa)+int(bbb)))
+
+cc=input()
+print(cc)
