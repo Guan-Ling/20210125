@@ -1,4 +1,4 @@
-# 算秒數差
+# 算秒數差111222---->3661
 h1=int(input())
 m1=int(input())
 s1=int(input())
